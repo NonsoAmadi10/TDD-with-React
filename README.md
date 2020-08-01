@@ -1,6 +1,8 @@
 # TDD-with-React
 This is an introductory course I am taking to learn how to write tests in react web applications. 
 
+---
+[![Build Status](https://travis-ci.com/NonsoAmadi10/TDD-with-React.svg?branch=master)](https://travis-ci.com/NonsoAmadi10/TDD-with-React)
 
 
 ## Available Scripts
