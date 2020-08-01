@@ -5,7 +5,7 @@ import Timer from './components/Timer/Timer';
 
 function App() {
   return (
-    <div className="App">
+    <div className="app-container">
       <Timer />
     </div>
   );
